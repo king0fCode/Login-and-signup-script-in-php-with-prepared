@@ -29,11 +29,11 @@ include 'header.php';
                 </div>
                 <div class="form-group">
                     <label class="control-label">Password</label>
-                    <input type="text" class="form-control" name="password" placeholder="Password">
+                    <input type="password" class="form-control" name="password" placeholder="Password">
                 </div>
                 <div class="form-group">
                     <label class="control-label">Re-type Password</label>
-                    <input type="text" class="form-control" name="repassword" placeholder="Password">
+                    <input type="password" class="form-control" name="repassword" placeholder="Password">
                 </div>
                 <button type="submit" name="signup" class="btn btn-primary">SignUP</button>
             </div>
